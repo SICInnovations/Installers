@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'exo_2.0light';
+  src: url('../fonts/exo-light/exo2.0-light-webfont.eot');
+  src: url('../fonts/exo-light/exo2.0-light-webfont.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/exo-light/exo2.0-light-webfont.woff') format('woff'),
+  url('../fonts/exo-light/exo2.0-light-webfont.ttf') format('truetype'),
+  url('../fonts/exo-light/exo2.0-light-webfont.svg#exo_2.0light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'exo_2.0regular';
+  src: url('../fonts/exo-regular/exo2.0-regular-webfont.eot');
+  src: url('../fonts/exo-regular/exo2.0-regular-webfont.eot?#iefix') format('embedded-opentype'),
+ /* url('../fonts/exo-regular/exo2.0-regular-webfont.woff') format('woff'),
+  url('../fonts/exo-regular/exo2.0-regular-webfont.woff') format('woff'),*/
+  url('../fonts/exo-regular/exo2.0-regular-webfont.ttf') format('truetype'),
+  url('../fonts/exo-regular/exo2.0-regular-webfont.svg#exo_2.0regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+
+}

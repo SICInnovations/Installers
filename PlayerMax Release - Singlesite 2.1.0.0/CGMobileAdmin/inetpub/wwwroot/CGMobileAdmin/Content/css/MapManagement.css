@@ -1,0 +1,46 @@
+﻿.map{
+ height: 375px;
+  width: 100% !important;
+  /*border: 1px solid;*/
+  position: relative;
+    /*cursor: pointer;*/
+    overflow: visible;
+}
+.map1{
+ height: 300px;
+  width: 100% !important;
+  /*border: 1px solid;*/
+  position: relative;
+    /*cursor: pointer;*/
+    overflow: visible;
+}
+.pin{
+  height: 24px;
+  width:50px;
+  background: url("../img/pin.png") no-repeat;
+  position: absolute;
+  z-index: 4;
+}
+.pin span {
+    border: 1px solid #CCCCCC;
+    font-size: 11px;
+    left: 12px;
+    min-height: 80px;
+    min-width: 300px;
+    padding: 0 5px;
+    position: absolute;
+    bottom: 28px;
+    background: #fff;
+}
+.map img,
+.map1 img {
+  
+}
+.imgMachineDetailWrap {
+    border: 1px solid;
+    cursor: pointer;
+    height: 375px;
+    overflow: hidden;
+    position: relative;
+    width: 100% !important;
+}

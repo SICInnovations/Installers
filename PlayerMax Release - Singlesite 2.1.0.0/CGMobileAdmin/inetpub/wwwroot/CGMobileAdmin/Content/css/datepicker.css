@@ -1,0 +1,33 @@
+.datepicker{
+  font-size: 90%;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  -ms-border-radius: 0;
+  -o-border-radius: 0;
+  text-align: center;
+}
+.datepicker thead{
+  background: #D9534F;
+  color: #fff;
+}
+.datepicker thead th{
+  text-align: center;
+  font-weight: 100;
+}
+.datepicker tbody{
+  background: #3B3E40;
+  color: #ccc;
+}
+.datepicker tbody td:hover,
+.datepicker tbody td.active,
+.datepicker tbody td.today{
+  background: #27292A;
+  color: #fff;
+  cursor: pointer;
+}
+.datepicker tbody td.old{
+
+}
